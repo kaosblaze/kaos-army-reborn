@@ -1,2 +1,23 @@
 # kaos-army-reborn
-mtasa://72.62.163.128:27215
+
+> El Kaos evoluciona. La leyenda continúa.
+
+## Estado
+
+🚧 En desarrollo
+
+## Objetivo
+
+Construir un videojuego online persistente sobre Multi Theft Auto.
+
+## Arquitectura
+
+KA Engine
+
+KA Framework
+
+KA Core
+
+## Licencia
+
+Privado.
